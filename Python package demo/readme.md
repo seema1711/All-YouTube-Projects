@@ -1,0 +1,1 @@
+It is used to generate some random text according to the user input.
