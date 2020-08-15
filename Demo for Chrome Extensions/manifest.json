@@ -1,0 +1,10 @@
+{
+    "name": "demo extension",
+    "version": "0.0.1",
+    "description": "for demo",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "demo.html",
+        "default_icon": "extension-icon.png"
+    }
+}
