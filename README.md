@@ -1,10 +1,10 @@
 # Name
 
-All-YouTube-Projects
+All-YouTube-Projects-Code
 
 # Description
 
-This repository is the destination of all the codes I use in my [YouTube](https://youtube.com/BashWoman) tutorials.
+This repository is the destination of all the codes which I use in my [YouTube](https://youtube.com/BashWoman) tutorials.
 
 # Author
 
