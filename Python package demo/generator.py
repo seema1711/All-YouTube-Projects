@@ -9,3 +9,4 @@ se = lorem.paragraphs(paragraph_length)
 
 # Finally print the paragraphs
 print(se)
+# the result will be in lorem style
