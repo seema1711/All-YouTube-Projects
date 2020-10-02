@@ -7,8 +7,8 @@ All-YouTube-Projects
 This repository is the destination of all the codes I use in my [YouTube](https://youtube.com/BashWoman) tutorials.
 
 # Author
-
-[Seema Saharan](https://twitter.com/SeemaSaharan5)
+# The great 
+#[Seema Saharan](https://twitter.com/SeemaSaharan5)
 
 # License
 
