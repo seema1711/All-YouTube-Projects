@@ -1,0 +1,19 @@
+### Install ZSh
+
+1. sudo apt install zsh
+2. chsh -s $(which zsh)
+-----
+
+### Install Ohmy zsh
+
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+### Install Powrlevel10k theme
+
+git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+
+### Install plugins
+
+git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
+
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
